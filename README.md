@@ -1,10 +1,10 @@
 # 📊 Zohan Store Performance Dashboard (2022 Data):<br>
       
-       An interactive Excel Sales Analytics Dashboard built to practice analyzing a retail store's yearly <br>
+       An interactive Excel Sales Analytics Dashboard built to practice analyzing a retail store's yearly<br>
        performance across sales, orders, customer demographics, and sales channels.<br>
 
 # 📅 Note: This is a practice/portfolio project using 2022 sample retail data,<br>
-  #         created to demonstrate Excel dashboarding and data analysis skills.<br>
+  #        created to demonstrate Excel dashboarding and data analysis skills.<br>
 
 # 🎯 Project Objective:<br>
 
@@ -30,8 +30,8 @@
    🛒 Best performing sales channel.<br>
    👕 Highest selling product category.<br>
 
-# 💡 Key Insights:<br>
-#    InsightDetail:<br>
+# 💡Key Insights:<br>
+#   Insight Detail:<br>
       
    👩 Gender Split   Women contribute ~64% of total sales.<br>
    🗺️ Top States     Maharashtra, Karnataka & Uttar Pradesh.<br>
