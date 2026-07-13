@@ -42,4 +42,6 @@
 Target women customers aged 30-49 yrs in Maharashtra, Karnataka & Uttar Pradesh<br>
 through targeted ads/offers/coupons on Amazon, Flipkart & Myntra to maximize sales growth.<br>
 
+![image alt](https://github.com/M-Kaif-515/Excel-Zohan-Store-Sales-Dashboard./blob/cc0f40e7e5e9d66dfaa0229620fc3501e006233e/Excel%20Project/Excel%20Dashboard%201.png)
+
 # ⭐ Feel free to star this repo if you found it helpful!
