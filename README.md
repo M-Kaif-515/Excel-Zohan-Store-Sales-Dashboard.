@@ -1,7 +1,7 @@
 # 📊 Zohan Store Performance Dashboard (2022 Data):<br>
       
        An interactive Excel Sales Analytics Dashboard built to practice analyzing a retail store's yearly
-       performance across sales, orders, customer demographics, and sales channels.<br>
+       performance across sales, orders, customer demographics, and sales channels.
 
 # 📅 Note: This is a practice/portfolio project using 2022 sample retail data, created to demonstrate Excel dashboarding and data analysis skills.<br>
 
@@ -42,4 +42,4 @@
 Target women customers aged 30-49 yrs in Maharashtra, Karnataka & Uttar Pradesh<br>
 through targeted ads/offers/coupons on Amazon, Flipkart & Myntra to maximize sales growth.<br>
 
-# ⭐ Feel free to star this repo if you found it helpful!<br>
+# ⭐ Feel free to star this repo if you found it helpful!
