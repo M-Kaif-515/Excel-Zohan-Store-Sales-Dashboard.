@@ -3,7 +3,7 @@
        An interactive Excel Sales Analytics Dashboard built to practice analyzing a retail store's yearly
        performance across sales, orders, customer demographics, and sales channels.
 
-# 📅 Note: This is a practice/portfolio project using 2022 sample retail data, created to demonstrate Excel dashboarding and data analysis skills.<br>
+  📅 Note: This is a practice/portfolio project using 2022 sample retail data, created to demonstrate Excel dashboarding and data analysis skills.<br>
 
 # 🎯 Project Objective:<br>
 
